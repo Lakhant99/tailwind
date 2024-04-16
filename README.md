@@ -1,6 +1,6 @@
 ---
 
-# NOAH FE Template
+# Tailwind Template
 
 ## Set up
 
